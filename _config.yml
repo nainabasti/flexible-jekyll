@@ -1,6 +1,8 @@
 title: Justin S. Nainabasti
 description: > # this means to ignore newlines until "baseurl:"
-  In this blog, I discuss new ideas that I am currently exploring and flesh out the ones that have been floating in my head.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/nainabasti.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Justin S. Nainabasti # add your name
 author-img: justin-nainabasti.jpg # add your photo
-about-author:   # add description
+about-author: I'm a Philosophy student with management background that likes to learn how businesses grow. I'm interested in economics, psychology, history and general heuristics in effective decision making and strategy building. I love programming. You can find my projects on Github.  # add description
 social-twitter: jnainabasti
 social-facebook: # add your Facebook handle
 social-github: justin1997 # add your Github handle
