@@ -1,6 +1,6 @@
 title: Justin S. Nainabasti
 description: > # this means to ignore newlines until "baseurl:"
-  I like cool things
+  I like cool things too
 permalink: ':title/'
 baseurl: "/nainabasti.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Justin S. Nainabasti # add your name
 author-img: justin-nainabasti.jpg # add your photo
-about-author: I like cool stuff.  # add description
+about-author: Business Analyst  # add description
 social-twitter: jnainabasti
 social-facebook: # add your Facebook handle
 social-github: justin1997 # add your Github handle
